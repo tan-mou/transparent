@@ -57,6 +57,9 @@
     <ClCompile Include="class\CubeTexture.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="class\test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class\Camera.h">
@@ -96,6 +99,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="class\CubeTexture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="class\test.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -170,6 +170,7 @@
     <ClCompile Include="class\Model.cpp" />
     <ClCompile Include="class\CubeTexture.cpp" />
     <ClCompile Include="src.cpp" />
+    <ClCompile Include="class\test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class\Camera.h" />
@@ -185,6 +186,7 @@
     <ClInclude Include="class\Mesh.h" />
     <ClInclude Include="class\Model.h" />
     <ClInclude Include="class\CubeTexture.h" />
+    <ClInclude Include="class\test.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader\fragment.shader" />
